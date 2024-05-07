@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/final-react/static/css/main.31d6cfe0.css",
+    "main.js": "/final-react/static/js/main.67303f93.js",
+    "static/media/tips.csv": "/final-react/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/final-react/index.html",
+    "main.67303f93.js.map": "/final-react/static/js/main.67303f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.67303f93.js"
+  ]
+}
